@@ -1,10 +1,9 @@
 package com.alura.foro.controller;
 
 
-import com.alura.foro.domain.DatosActualizarTopico;
-import com.alura.foro.domain.DatosRegistroTopico;
-import com.alura.foro.domain.Topico;
-import com.alura.foro.domain.TopicoRepository;
+import com.alura.foro.domain.topico.DatosActualizarTopico;
+import com.alura.foro.domain.topico.DatosRegistroTopico;
+import com.alura.foro.domain.topico.Topico;
 import com.alura.foro.service.TopicoService;
 import jakarta.transaction.Transactional;
 import jakarta.validation.Valid;

@@ -1,4 +1,4 @@
-package com.alura.foro.infra;
+package com.alura.foro.infra.errors;
 
 
 import com.alura.foro.service.ValidacionExcepcion;

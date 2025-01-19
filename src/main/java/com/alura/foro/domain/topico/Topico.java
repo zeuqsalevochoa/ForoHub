@@ -1,10 +1,7 @@
-package com.alura.foro.domain;
+package com.alura.foro.domain.topico;
 
 import jakarta.persistence.*;
-import jakarta.validation.Valid;
 import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
 
 import java.time.LocalDateTime;
 

@@ -1,15 +1,13 @@
 package com.alura.foro.service;
 
-import com.alura.foro.domain.DatosActualizarTopico;
-import com.alura.foro.domain.DatosRegistroTopico;
-import com.alura.foro.domain.Topico;
-import com.alura.foro.domain.TopicoRepository;
+import com.alura.foro.domain.topico.DatosActualizarTopico;
+import com.alura.foro.domain.topico.DatosRegistroTopico;
+import com.alura.foro.domain.topico.Topico;
+import com.alura.foro.domain.topico.TopicoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
-
-import java.util.List;
 
 @Service
 public class TopicoService {
