@@ -1,5 +1,8 @@
 # Foro Hub
 
+![Badge-Spring](https://github.com/user-attachments/assets/c385e117-c5eb-4178-b890-3af1e65670bd)
+
+
 ## 📝 Descripción
 Este proyecto es una API REST para gestionar los topicos de un foro de discusión. Presenta la funcionalidad de autenticacion mediante JWT. Este proyecto está desarrollado en Java con el framework de Spring Boot y una base de datos usando el gestor de MySQL.
 
